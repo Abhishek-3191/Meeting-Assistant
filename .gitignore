@@ -1,0 +1,9 @@
+.env
+
+# Generated files
+downloads/
+vector_db/
+.venv/
+__pycache__/
+*.py[cod]
+.env
