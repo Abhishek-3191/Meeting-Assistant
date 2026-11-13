@@ -1,6 +1,8 @@
 # 🎙️ AI Meeting Assistant
 <img width="1371" height="918" alt="image" src="https://github.com/user-attachments/assets/2a89157b-3793-430e-8547-002e16a92a41" />
-# Live Website- https://meeting-assistant-y39zgmx6auwkmx4aufheko.streamlit.app/
+## Live Website- 
+https://meeting-assistant-y39zgmx6auwkmx4aufheko.streamlit.app/
+
 An AI-powered meeting assistant that transforms audio and video recordings into structured meeting insights. It generates transcripts, summaries, action items, key decisions, and allows users to ask questions about their meetings using Retrieval-Augmented Generation (RAG).
 
 Built with Python, Streamlit, OpenAI Whisper, Google Gemini, LangChain, and ChromaDB.
